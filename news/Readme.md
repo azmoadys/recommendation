@@ -2,7 +2,7 @@
 ========================================
 
 # 구조
-
+![screensh](/Mailing.png)
 ## Part 1
 ### main
 ### Crawler
